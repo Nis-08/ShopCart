@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "iBwlxs0MzpOLIaPndtJzCZtHbTtnnj51PXxF+liVJbE=",
+  "Source": "NewJwtLogin",
+  "BasePath": "_content/NewJwtLogin",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
